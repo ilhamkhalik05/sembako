@@ -9,7 +9,6 @@ bool isValidChoice(int start, int end, int choice);
 
 int main()
 {
-    // tes PR
     int selectedMainModule = 0;
     const int startMainModule = 1;
     const int endMainModule = 3;
